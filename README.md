@@ -1,6 +1,6 @@
 ﻿# Hi, I'm ScarNit 👋
 
-I'm an indie game developer making **2D games with Unity and C#**. I enjoy building challenging levels, combat systems, and strategy games.
+I'm an indie game developer making ** games with Unity and C#**. I enjoy building challenging levels, combat systems, and strategy games.
 
 ## 🎮 My games
 
